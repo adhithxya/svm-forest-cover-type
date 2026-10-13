@@ -1,0 +1,17 @@
+# Dataset (download separately)
+covtype.data
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
